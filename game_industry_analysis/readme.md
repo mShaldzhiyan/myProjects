@@ -11,9 +11,9 @@
 
 ## Используемые библиотеки
 
-seaborn (0.9.0)
-scipy (1.4.1)
-plotly (4.1.0)
-pandas (0.25.1)
-numpy (1.19.5)
-matplotlib (3.1.0)
+seaborn (0.9.0) <br>
+scipy (1.4.1) <br>
+plotly (4.1.0) <br>
+pandas (0.25.1) <br>
+numpy (1.19.5) <br>
+matplotlib (3.1.0) <br>
